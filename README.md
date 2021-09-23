@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Farjana Afroz</h1>
-<h3 align="center">Aspiring Data Analyst from Bangladesh</h3>
+* Hi 👋, I'm Farjana Afroz</h1>
+* Aspiring Data Analyst from Bangladesh</h3>
+* I am currently working at an ecommerce company and actively looking for an opportunity for Data Analyst role
 
 - 📫 How to reach me **nila.farzanaafroz@gmail.com**
 
